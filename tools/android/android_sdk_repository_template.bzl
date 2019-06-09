@@ -266,6 +266,7 @@ def create_android_sdk_rules(
 
 TAGDIR_TO_TAG_MAP = {
     "google_apis": "google",
+    "google_apis_playstore": "google",
     "default": "android",
     "android-tv": "tv",
     "android-wear": "wear",
